@@ -1,1 +1,1 @@
-# Smart-Sweat
+Designed a GUI application that predicts a person’s health status (Diabetic or Non-Diabetic) using sweat analysis. The model is trained on a dataset containing sodium (Na⁺), potassium (K⁺), and glucose concentrations in sweat. Machine learning algorithms analyze this data to determine potential diabetic conditions. The user-friendly interface allows real-time input of sweat biomarker values and provides immediate health status feedback, promoting non-invasive, early-stage diabetes detection.
